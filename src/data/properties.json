@@ -1,35 +1,47 @@
 [
   {
     "id":101,
+    "SellRent": 1,
     "name":"Birla House",
     "type":"House",
-    "price":192000
+    "price":192000,
+    "image": "house-1"
    },
    {
     "id":102,
+    "SellRent": 1,
     "name":"Tata House",
     "type":"House",
-    "price":121000
+    "price":121000,
+    "image": "house-2"
    },
    {
     "id":103,
+    "SellRent": 1,
     "name":"Mahindra House",
     "type":"House",
-    "price":146000
-   },{
+    "price":146000,
+    "image": "house-3"
+   },
+   {
     "id":104,
+    "SellRent": 1,
     "name":"Jindal House",
     "type":"House",
-    "price":168000
+    "price":168000,
+    "image": "house-4"
    },
    {
     "id":105,
+    "SellRent": 2,
     "name":"Eicher House",
     "type":"House",
-    "price":134000
+    "price":134000,
+    "image": "house-5"
    },
    {
     "id":106,
+    "SellRent": 2,
     "name":"Infosys House",
     "type":"House",
     "price":162000
